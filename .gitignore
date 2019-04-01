@@ -6,3 +6,5 @@ DerivedDataCache/
 _BuildData.uasset/
 *VC.db/
 */.vs
+.vs/MechanicTest/v15/.suo
+.vs/
