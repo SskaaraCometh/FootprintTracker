@@ -5,3 +5,4 @@ Binaries/
 DerivedDataCache/
 _BuildData.uasset/
 *VC.db/
+*/.vs
